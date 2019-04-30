@@ -1,10 +1,10 @@
 # Word Jumble Solver
 
- ###Overview
+ ### Overview
 
  The Jumble Solver program is designed to take an input of random letters and then show you what words can be created with the given letters.
 
-###Installation
+### Installation
 
 This program used the NLTK (Natural Language Tool Kit) library. You must install the NLTK library on your computer for this program to function properly. 
 
