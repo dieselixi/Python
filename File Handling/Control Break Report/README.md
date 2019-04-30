@@ -1,0 +1,3 @@
+# Control break report
+
+ This program involves the creation of a level break report by correctly reading each of the records from a data file (cb1data.txt) and then parsing the record into fields to produce a control break report to a disk file named "cb1rpt.txt". The programs output will also create an employee level break with each employees total hours as well as a department level break with each departments total hours and a grand total of hours at the end.
